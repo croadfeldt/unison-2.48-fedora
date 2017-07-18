@@ -1,0 +1,18 @@
+%dir /usr/lib/debug
+%dir /usr/lib/debug/usr
+%dir /usr/lib/debug/usr/bin
+%dir /usr/lib/debug/.build-id
+%dir /usr/lib/debug/.build-id/13
+%dir /usr/lib/debug/.build-id/94
+%dir /usr/lib/debug/.build-id/00
+%dir /usr/lib/debug/.dwz
+/usr/lib/debug/usr/bin/unison-gtk-2.48.debug
+/usr/lib/debug/usr/bin/unison-text-2.48.debug
+/usr/lib/debug/usr/bin/unison-2.48.debug
+/usr/lib/debug/.build-id/13/7fd8da6936472bc8e52ded2302e6d3d350f65c
+/usr/lib/debug/.build-id/13/7fd8da6936472bc8e52ded2302e6d3d350f65c.debug
+/usr/lib/debug/.build-id/94/234fdf6e4dd51ce51084b66fe29d59e26503d5
+/usr/lib/debug/.build-id/94/234fdf6e4dd51ce51084b66fe29d59e26503d5.debug
+/usr/lib/debug/.build-id/00/9fd17fcf2ed01cbcdee2844fc38dd5f87d4f6f.debug
+/usr/lib/debug/.dwz/unison248-2.48.4-1.fc26.x86_64
+/usr/src/debug/unison-2.48.4

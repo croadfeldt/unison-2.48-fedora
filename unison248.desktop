@@ -1,0 +1,10 @@
+[Desktop Entry]
+Type=Application
+Exec=unison-gtk-2.48
+Name=Unison File Synchronizer (version 2.48)
+GenericName=File Synchronizer
+Comment=Multi-master File synchronization tool
+Terminal=false
+Icon=unison248
+StartupNotify=true
+Categories=Utility;
